@@ -1,6 +1,7 @@
 # el_pais_scrapper
 A script demonstrating skills in web scraping, API integration, and text processing using the Selenium framework
 
+# Note : The final output can be seen in final_output.txt file
 ## Problem Statement
 
 This Python project aims to scrape and analyze articles from the "Opinion" section of El País, a Spanish news outlet. The main objectives are:
